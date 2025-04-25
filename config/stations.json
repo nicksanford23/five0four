@@ -1,0 +1,7 @@
+{
+  "fry":   { "name": "Fry Station",   "capacity": 8 },
+  "grill": { "name": "Flat-top 1",    "capacity": 6 },
+  "pizza": { "name": "Pizza Oven",    "capacity": 4 },
+  "boil":  { "name": "Boil Pot",      "capacity": 5 },
+  "cold":  { "name": "Cold Prep",     "capacity": 999 }
+}

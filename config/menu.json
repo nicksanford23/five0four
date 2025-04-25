@@ -1,0 +1,5 @@
+[
+  { "id": "wings",       "name": "Wings",                "station": "fry",   "cookTime": 720,  "price": 14.00 },
+  { "id": "crawfish",    "name": "Crawfish Pies",        "station": "pizza", "cookTime": 900,  "price": 12.00 },
+  { "id": "steak",       "name": "Steak Frites",         "station": "grill", "cookTime": 840,  "price": 28.00 }
+]
